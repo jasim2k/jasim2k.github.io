@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/jasim2k/jasim2k.github.io/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 I am trying to learn blog with Github Pages..
+this blog initiated to record about A&F
 
 # Markdown
 
