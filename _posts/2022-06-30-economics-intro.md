@@ -16,8 +16,14 @@ Recessions are more vulnerable because of two things.
 
 If the prices fall quickly and easily, we can overcome the recessions. But, the prices wont quickly and easily fall , the economists have had to develop Antirecessionary policies or tools to eradicate the recession ASAP.
 Governement can use two things to fight Recession which I have learned from English Economist John Maynard Keynes, who in 1936 wrote the first macroeconomics book to fight Recessions.
+
                 Monetary Policy
 
                 Fiscal Policy
+
+
 ## Monetary Policy
 It refer to change in money supply to change Interest rate in order to stimulate the economic activity.
+Ex: After Govt., makes the IR fall , consumer borrow money to buy physical assets and so on., which helps to stimulate the economic activity & helping the economy changes faster.
+
+## Fiscal Poicy
