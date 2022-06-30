@@ -1,11 +1,13 @@
-## Welcome to GitHub Pages
+# Economics & its Facts
 
-You can use the [editor on GitHub](https://github.com/jasim2k/jasim2k.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
+This page is created to know & attain knowledges about Economics. I, Abdul Jasim, graduated Bachelor of Commerce and now I would like to share this contents with you.
+
+First of All, This blog is really useful for the beginners in Economics or the persons who is fond of learning Economics from scratch. 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 I am trying to learn blog with Github Pages..
-this blog initiated to record about A&F
+This blog initiated to record about A&F
 
 # Markdown
 
