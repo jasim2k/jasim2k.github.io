@@ -2,15 +2,15 @@
 title:               Jasim Blog
 tagline:             'Blog about Passion'
 description:         'Made by Ahamed'
-url:                 https://jasim2k.github.io/
-baseurl:             https://jasim2k.github.io/jasim2k.github.io/
+url:                 https://jasim2k.github.io
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
   name:              Jasim
-  url:               https://jasim2k.github.io/
+  url:               https://jasim2k.github.io
   email:             abc@yahoo.com
 
 # Gems
