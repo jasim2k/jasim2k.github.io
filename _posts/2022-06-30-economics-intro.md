@@ -27,3 +27,6 @@ It refer to change in money supply to change Interest rate in order to stimulate
 Ex: After Govt., makes the IR fall , consumer borrow money to buy physical assets and so on., which helps to stimulate the economic activity & helping the economy changes faster.
 
 ## Fiscal Poicy
+It uses increased government spending or dimnishing tax rates to stimulate the economic activity.
+Ex: Govt., buying more goods and services to boost the economy and overpass the recession.
+(or) Government lowering the tax rate, so consumer ends up with high after-tax income which, when spent, to stimulate Economic Activity.
