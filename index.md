@@ -11,23 +11,6 @@ First of All, This blog is really useful for the beginners in Economics or the p
 Economics is just a science from where you can study about the fact that people and societies make decisions to get in return the most out of their limited pool of resources. This study helps you to identify the rootcause of the issues, analyzing the behaviours of individuals, firms and social & political instituitions, to observe how well they convert the limited & constrained resources into finished goods & services that best satisfy human wants and desires.
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
