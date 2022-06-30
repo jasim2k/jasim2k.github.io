@@ -1,5 +1,5 @@
 # Setup
-title:               Jasim Blog
+title:               Jasim's Blog
 tagline:             'Blog about Passion'
 description:         'Made by Ahamed'
 url:                 https://jasim2k.github.io
@@ -19,4 +19,3 @@ plugins:
 
 # Custom vars
 version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
