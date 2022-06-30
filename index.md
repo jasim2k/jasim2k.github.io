@@ -1,17 +1,15 @@
 # Economics & its Facts
 
 
-This page is created to know & attain knowledges about Economics. I, Abdul Jasim, graduated Bachelor of Commerce and now I would like to share this contents with you.
+This page is created to know & attain knowledges about Economics. I, Abdul Jasim, graduated Bachelor of Commerce and now I would like to share this content with you.
 
-First of All, This blog is really useful for the beginners in Economics or the persons who is fond of learning Economics from scratch. 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+First of All, This blog is really useful for the beginners in Economics or the person who is fond of learning Economics from scratch. i will call myself the beginner. So, I can start this journey along with you guys.
 
-I am trying to learn blog with Github Pages..
-This blog initiated to record about A&F
 
-# Markdown
+## Economics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Economics is just a science from where you can study about the fact that people and societies make decisions to get in return the most out of their limited pool of resources. This study helps you to identify the rootcause of the issues, analyzing the behaviours of individuals, firms and social & political instituitions, to observe how well they convert the limited & constrained resources into finished goods & services that best satisfy human wants and desires.
+
 
 ```markdown
 Syntax highlighted code block
